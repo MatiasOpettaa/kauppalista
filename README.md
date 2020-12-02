@@ -1,2 +1,3 @@
 # Kauppalista
-Kauppalista kaupassa käymiseen.
+Kauppalista kaupassa käymiseen
+
